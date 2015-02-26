@@ -11,3 +11,11 @@
 		<li>Cheng Chung - cchung1</li>
 	</ul>
 </div>
+<div>
+	<h2>Design Description:</h2>
+	<ul>
+		<li>Make things round like there logo</li>
+		<li>Da Colurz are: Red, Black, White, Gray (HEX values to come see issues)</li>
+		<li>Going for scalability, readibility, and clean with #sweet Colurz</li>
+	</ul>
+</div>
