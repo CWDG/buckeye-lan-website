@@ -17,5 +17,6 @@
 		<li>Make things round like there logo</li>
 		<li>Da Colurz are: Red, Black, White, Gray (HEX values to come see issues)</li>
 		<li>Going for scalability, readibility, and clean with #sweet Colurz</li>
+		<li>Design can be found at: <a href="https://onedrive.live.com/redir?resid=D189558D20FF0628!31193&authkey=!AKrLchU_DhvezcA&ithint=onenote%2c">OneNote Link</a></li>
 	</ul>
 </div>
