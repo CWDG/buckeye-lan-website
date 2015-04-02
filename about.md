@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+BuckeyeLAN is a student-run organization at The Ohio State University that hosts video game events and tournaments. We hold themed monthly events and one large event with several tournaments each semester.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+We play and hold tournaments for a wide variety of games: from MOBAs like League of Legends and DotA, to Nintendo games like Mario Kart and Smash. Fighting Games such as UMvC3 and Ultra Street Fighter 4, RTSs like StarCraft II, HearthStone, console shooters, we have it all!
