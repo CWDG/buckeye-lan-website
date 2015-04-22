@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Home
-permalink: /home.html/
+permalink: /home/
 ---
 
-hello world
+homepage?

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to BuckeyeLAN: First Event"
 date:   2015-03-29 10:35:14
 categories: jekyll update
 ---

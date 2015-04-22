@@ -198,6 +198,7 @@ pre {
  * Page content
  */
 .page-content {
+  margin-top: 50px;
   padding: 30px 0; }
 
 .page-heading {
