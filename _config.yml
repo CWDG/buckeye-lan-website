@@ -4,6 +4,7 @@ email: BuckeyeLAN@osu.edu
 description: > # this means to ignore newlines until "baseurl:"
   © 2015 BuckeyeLAN | All Rights Reserved
 baseurl: "" # the subpath of your site, e.g. /blog/
+pageurl: "buckeye-lan-website/"
 url: "cwdg.github.io/buckeye-lan-website/" # the base hostname & protocol for your site
 twitter_username: BuckeyeLAN
 facebook_link:  facebook.com/BuckeyeLAN
